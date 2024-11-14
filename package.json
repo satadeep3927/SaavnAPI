@@ -1,6 +1,6 @@
 {
   "name": "saavnapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight Node.js library providing access to JioSaavn's internal API, enabling song search, playlists, albums, and more. Ideal for building music-related applications.",
   "keywords": [
     "JioSaavn",
